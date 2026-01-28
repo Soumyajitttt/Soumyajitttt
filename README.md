@@ -23,9 +23,8 @@
 
 <!-- ---
 
+### Activity & Stats
 
-### GitHub Stats -->
-
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyajitttt&show_icons=true&theme=transparent&hide_border=true" alt="Your GitHub Stats" height="250" />
-</p> -->
+| GitHub Stats | LeetCode Stats |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=Soumyajitttt&show_icons=true&theme=transparent&hide_border=true" height="200" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" /> | -->
