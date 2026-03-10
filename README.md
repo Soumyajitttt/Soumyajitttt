@@ -23,10 +23,10 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
-<!---
+---
 
 ### Activity & Stats
 
 | GitHub Stats | LeetCode Stats |
 | :---: | :---: |
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soumyajitttt&show_icons=true&theme=dark&hide_border=true" height="200" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" /> | -->
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soumyajitttt&show_icons=true&theme=dark&hide_border=true" height="200" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" /> | 
