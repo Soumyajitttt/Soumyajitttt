@@ -29,4 +29,4 @@
 
 | GitHub Stats | LeetCode Stats |
 | :---: | :---: |
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soumyajitttt&show_icons=true&theme=dark&hide_border=true" height="200" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" /> | 
+| <img src="https://github-stats-extended.vercel.app/api?username=Soumyajitttt&show_icons=true&theme=dark&hide_border=true" height="200" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" /> |
