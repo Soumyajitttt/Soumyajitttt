@@ -27,6 +27,4 @@
 
 | GitHub Stats | LeetCode Stats |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Soumyajitttt/Soumyajitttt/main/profile-summary-card-output/github_dark/0-profile-details.svg" height="170" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" alt="LeetCode Stats" /> |
-
-![Top Languages](https://raw.githubusercontent.com/Soumyajitttt/Soumyajitttt/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+| <img src="https://raw.githubusercontent.com/Soumyajitttt/Soumyajitttt/main/github-metrics.svg" width="480" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" alt="LeetCode Stats" /> |
