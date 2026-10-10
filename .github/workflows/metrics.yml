@@ -1,5 +1,9 @@
 name: Metrics
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/metrics.yml"
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
