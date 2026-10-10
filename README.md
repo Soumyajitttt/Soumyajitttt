@@ -20,11 +20,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
 ---
-
 ### Activity & Stats
-
 | GitHub Stats | LeetCode Stats |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Soumyajitttt/Soumyajitttt/main/github-activity.svg?v=5" height="180" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="180" alt="LeetCode Stats" /> |
+| <img src="https://github-readme-stats-fast.vercel.app/api?username=Soumyajitttt&show_icons=true&bg_color=0D1117&title_color=54dfc4&text_color=54dfc4&icon_color=f6d34e&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" />  |  <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" /> |
