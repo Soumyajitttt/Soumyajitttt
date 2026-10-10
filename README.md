@@ -27,4 +27,4 @@
 
 | GitHub Stats | LeetCode Stats |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Soumyajitttt/Soumyajitttt/main/github-activity.svg?v=3" height="180" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="180" alt="LeetCode Stats" /> |
+| <img src="https://raw.githubusercontent.com/Soumyajitttt/Soumyajitttt/main/github-activity.svg?v=5" height="180" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="180" alt="LeetCode Stats" /> |
