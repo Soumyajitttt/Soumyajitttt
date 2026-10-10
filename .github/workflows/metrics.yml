@@ -6,7 +6,7 @@ on:
       - ".github/workflows/metrics.yml"
       - ".github/scripts/activity-card.mjs"
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
