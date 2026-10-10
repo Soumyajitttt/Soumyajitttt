@@ -20,8 +20,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 ---
+
 ### Activity & Stats
+
 | GitHub Stats | LeetCode Stats |
 | :---: | :---: |
-| <img src="https://github-readme-stats-fast.vercel.app/api?username=Soumyajitttt&show_icons=true&bg_color=0D1117&title_color=54dfc4&text_color=54dfc4&icon_color=f6d34e&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" />  |  <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" /> |
+| <img src="https://raw.githubusercontent.com/Soumyajitttt/Soumyajitttt/main/profile-summary-card-output/github_dark/0-profile-details.svg" height="170" alt="GitHub Stats" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" alt="LeetCode Stats" /> |
+
+![Top Languages](https://raw.githubusercontent.com/Soumyajitttt/Soumyajitttt/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
