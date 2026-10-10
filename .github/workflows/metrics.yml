@@ -15,6 +15,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, community, repositories
-          repositories_affiliations: owner
+          base: activity
           config_timezone: Asia/Kolkata
