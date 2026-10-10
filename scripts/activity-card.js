@@ -40,7 +40,12 @@ const BLUE = "#58a6ff";
 
   const u = json.data.user;
   const c = u.contributionsCollection;
-  const total = c.contributionCalendar.totalContributions;
+  const total =
+    c.totalCommitContributions +
+    c.totalPullRequestReviewContributions +
+    c.totalPullRequestContributions +
+    c.totalIssueContributions +
+    u.issueComments.totalCount;
   const rows = [
     ["Commits", c.totalCommitContributions],
     ["Pull requests reviewed", c.totalPullRequestReviewContributions],
