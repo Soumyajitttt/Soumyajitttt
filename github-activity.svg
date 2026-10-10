@@ -1,49 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="216" viewBox="0 0 520 216" font-family="Recursive, 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace">
-  <rect x="0.5" y="0.5" width="519" height="215" rx="12" fill="#0f0f0f" stroke="#2a2a2a"/>
-  <g transform="translate(24 20) scale(1.5)" fill="#2dd4bf">
-    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
-  </g>
-  <text x="56" y="38" font-size="20" font-weight="700" fill="#f5f5f5">Soumyajitttt</text>
-  <text x="496" y="38" font-size="13" fill="#737373" text-anchor="end">public activity</text>
-  <circle cx="82" cy="134" r="42" fill="none" stroke="#262626" stroke-width="8"/>
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0s" fill="freeze"/>
-    <circle cx="82" cy="134" r="42" fill="none" stroke="#2dd4bf" stroke-width="8" stroke-linecap="round" stroke-dasharray="254.54716501352294 9.346617888019694" stroke-dashoffset="0" transform="rotate(-90 82 134)"/>
-    <circle cx="82" cy="134" r="42" fill="none" stroke="#818cf8" stroke-width="8" stroke-linecap="round" stroke-dasharray="1.5 262.39378290154264" stroke-dashoffset="-258.54716501352294" transform="rotate(-90 82 134)"/>
-    
-    
-    <circle cx="82" cy="134" r="42" fill="none" stroke="#38bdf8" stroke-width="8" stroke-linecap="round" stroke-dasharray="1.5 262.39378290154264" stroke-dashoffset="-262.36617779067984" transform="rotate(-90 82 134)"/>
-  </g>
-  <text x="82" y="142" font-size="24" font-weight="700" fill="#f5f5f5" text-anchor="middle">691</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="224" viewBox="0 0 520 224" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="519" height="223" rx="10" fill="#0a0a0a" stroke="#262626"/>
+
+  <circle cx="31" cy="26" r="3.5" fill="#3ecf8e"/>
+  <text x="42" y="30" font-size="13" font-weight="500" fill="#e5e5e5">Activity</text>
+  <text x="492" y="30" font-size="12" fill="#737373" text-anchor="end" font-family="'SF Mono', Menlo, Consolas, monospace">@Soumyajitttt</text>
+  <rect x="0" y="44" width="520" height="1" fill="#1f1f1f"/>
+
+  <text x="28" y="92" font-size="38" font-weight="600" fill="#fafafa">679</text>
+  <text x="28" y="112" font-size="12" fill="#737373">Commits, last 12 months</text>
+
+  <rect x="220.0" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="225.2" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="230.5" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="235.7" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="240.9" y="99.4" width="3.2" height="10.6" rx="1" fill="#3ecf8e"/>
+  <rect x="246.2" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="251.4" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="256.6" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="261.8" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="267.1" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="272.3" y="106.9" width="3.2" height="3.1" rx="1" fill="#3ecf8e"/>
+  <rect x="277.5" y="105.7" width="3.2" height="4.3" rx="1" fill="#3ecf8e"/>
+  <rect x="282.8" y="105.0" width="3.2" height="5.0" rx="1" fill="#3ecf8e"/>
+  <rect x="288.0" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="293.2" y="89.5" width="3.2" height="20.5" rx="1" fill="#3ecf8e"/>
+  <rect x="298.5" y="83.3" width="3.2" height="26.7" rx="1" fill="#3ecf8e"/>
+  <rect x="303.7" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="308.9" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="314.2" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="319.4" y="104.4" width="3.2" height="5.6" rx="1" fill="#3ecf8e"/>
+  <rect x="324.6" y="103.2" width="3.2" height="6.8" rx="1" fill="#3ecf8e"/>
+  <rect x="329.8" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="335.1" y="96.3" width="3.2" height="13.7" rx="1" fill="#3ecf8e"/>
+  <rect x="340.3" y="83.3" width="3.2" height="26.7" rx="1" fill="#3ecf8e"/>
+  <rect x="345.5" y="101.3" width="3.2" height="8.7" rx="1" fill="#3ecf8e"/>
+  <rect x="350.8" y="86.4" width="3.2" height="23.6" rx="1" fill="#3ecf8e"/>
+  <rect x="356.0" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="361.2" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="366.5" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="371.7" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="376.9" y="85.2" width="3.2" height="24.8" rx="1" fill="#3ecf8e"/>
+  <rect x="382.2" y="102.6" width="3.2" height="7.4" rx="1" fill="#3ecf8e"/>
+  <rect x="387.4" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="392.6" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="397.8" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="403.1" y="75.2" width="3.2" height="34.8" rx="1" fill="#3ecf8e"/>
+  <rect x="408.3" y="85.8" width="3.2" height="24.2" rx="1" fill="#3ecf8e"/>
+  <rect x="413.5" y="97.6" width="3.2" height="12.4" rx="1" fill="#3ecf8e"/>
+  <rect x="418.8" y="88.9" width="3.2" height="21.1" rx="1" fill="#3ecf8e"/>
+  <rect x="424.0" y="100.1" width="3.2" height="9.9" rx="1" fill="#3ecf8e"/>
+  <rect x="429.2" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="434.5" y="102.6" width="3.2" height="7.4" rx="1" fill="#3ecf8e"/>
+  <rect x="439.7" y="92.0" width="3.2" height="18.0" rx="1" fill="#3ecf8e"/>
+  <rect x="444.9" y="106.9" width="3.2" height="3.1" rx="1" fill="#3ecf8e"/>
+  <rect x="450.2" y="103.2" width="3.2" height="6.8" rx="1" fill="#3ecf8e"/>
+  <rect x="455.4" y="97.6" width="3.2" height="12.4" rx="1" fill="#3ecf8e"/>
+  <rect x="460.6" y="56.0" width="3.2" height="54.0" rx="1" fill="#3ecf8e"/>
+  <rect x="465.8" y="108.0" width="3.2" height="2.0" rx="1" fill="#262626"/>
+  <rect x="471.1" y="107.0" width="3.2" height="3.0" rx="1" fill="#3ecf8e"/>
+  <rect x="476.3" y="96.3" width="3.2" height="13.7" rx="1" fill="#3ecf8e"/>
+  <rect x="481.5" y="85.8" width="3.2" height="24.2" rx="1" fill="#3ecf8e"/>
+  <rect x="486.8" y="98.2" width="3.2" height="11.8" rx="1" fill="#3ecf8e"/>
+  <text x="492" y="126" font-size="10" fill="#525252" text-anchor="end">contributions per week</text>
+
+  <rect x="0" y="134" width="520" height="1" fill="#1f1f1f"/>
   
-  <text x="170" y="82" font-size="12" fill="#e5e5e5">Commits</text>
-  <text x="496" y="82" font-size="12" fill="#2dd4bf" text-anchor="end" font-weight="600">677</text>
-  <rect x="170" y="88" width="326" height="4" rx="2" fill="#262626"/>
-  <rect x="170" y="88" width="0" height="4" rx="2" fill="#2dd4bf">
-    <animate attributeName="width" from="0" to="326.0" dur="0.8s" begin="0.10s" fill="freeze"/>
-  </rect>
-  <text x="170" y="109" font-size="12" fill="#e5e5e5">PRs opened</text>
-  <text x="496" y="109" font-size="12" fill="#818cf8" text-anchor="end" font-weight="600">10</text>
-  <rect x="170" y="115" width="326" height="4" rx="2" fill="#262626"/>
-  <rect x="170" y="115" width="0" height="4" rx="2" fill="#818cf8">
-    <animate attributeName="width" from="0" to="39.6" dur="0.8s" begin="0.22s" fill="freeze"/>
-  </rect>
-  <text x="170" y="136" font-size="12" fill="#e5e5e5">PRs reviewed</text>
-  <text x="496" y="136" font-size="12" fill="#c084fc" text-anchor="end" font-weight="600">0</text>
-  <rect x="170" y="142" width="326" height="4" rx="2" fill="#262626"/>
-  <rect x="170" y="142" width="0" height="4" rx="2" fill="#c084fc">
-    <animate attributeName="width" from="0" to="0.0" dur="0.8s" begin="0.34s" fill="freeze"/>
-  </rect>
-  <text x="170" y="163" font-size="12" fill="#e5e5e5">Issues opened</text>
-  <text x="496" y="163" font-size="12" fill="#f472b6" text-anchor="end" font-weight="600">0</text>
-  <rect x="170" y="169" width="326" height="4" rx="2" fill="#262626"/>
-  <rect x="170" y="169" width="0" height="4" rx="2" fill="#f472b6">
-    <animate attributeName="width" from="0" to="0.0" dur="0.8s" begin="0.46s" fill="freeze"/>
-  </rect>
-  <text x="170" y="190" font-size="12" fill="#e5e5e5">Issue comments</text>
-  <text x="496" y="190" font-size="12" fill="#38bdf8" text-anchor="end" font-weight="600">4</text>
-  <rect x="170" y="196" width="326" height="4" rx="2" fill="#262626"/>
-  <rect x="170" y="196" width="0" height="4" rx="2" fill="#38bdf8">
-    <animate attributeName="width" from="0" to="25.1" dur="0.8s" begin="0.58s" fill="freeze"/>
-  </rect>
+  <text x="28" y="162" font-size="12" fill="#737373">PRs opened</text>
+  <text x="28" y="194" font-size="26" font-weight="600" fill="#fafafa">10</text>
+  <rect x="144" y="150" width="1" height="54" fill="#1f1f1f"/>
+  <text x="158" y="162" font-size="12" fill="#737373">PRs reviewed</text>
+  <text x="158" y="194" font-size="26" font-weight="600" fill="#fafafa">0</text>
+  <rect x="260" y="150" width="1" height="54" fill="#1f1f1f"/>
+  <text x="274" y="162" font-size="12" fill="#737373">Issues opened</text>
+  <text x="274" y="194" font-size="26" font-weight="600" fill="#fafafa">0</text>
+  <rect x="376" y="150" width="1" height="54" fill="#1f1f1f"/>
+  <text x="390" y="162" font-size="12" fill="#737373">Issue comments</text>
+  <text x="390" y="194" font-size="26" font-weight="600" fill="#fafafa">4</text>
 </svg>
