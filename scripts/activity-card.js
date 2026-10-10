@@ -9,6 +9,7 @@ const query = `query($login: String!) {
       totalPullRequestReviewContributions
       totalPullRequestContributions
       totalIssueContributions
+      contributionCalendar { totalContributions }
     }
   }
 }`;
@@ -30,6 +31,7 @@ const GITHUB_LOGO =
 
   const u = json.data.user;
   const c = u.contributionsCollection;
+  const total = c.contributionCalendar.totalContributions;
   const rows = [
     ["Commits", c.totalCommitContributions],
     ["Pull requests reviewed", c.totalPullRequestReviewContributions],
@@ -41,15 +43,25 @@ const GITHUB_LOGO =
   const lines = rows
     .map(
       ([label, val], i) =>
-        `<text x="20" y="${72 + i * 21}" fill="#54dfc4" font-size="14">${label}</text>` +
-        `<text x="310" y="${72 + i * 21}" fill="#f6d34e" font-size="14" text-anchor="end" font-weight="600">${val}</text>`
+        `<text x="140" y="${72 + i * 21}" fill="#54dfc4" font-size="14">${label}</text>` +
+        `<text x="400" y="${72 + i * 21}" fill="#f6d34e" font-size="14" text-anchor="end" font-weight="600">${val}</text>`
     )
     .join("\n  ");
 
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="330" height="170" viewBox="0 0 330 170" font-family="Segoe UI, Ubuntu, sans-serif">
-  <rect width="330" height="170" rx="6" fill="#0D1117"/>
+  // ring: commits' share of total shown as the highlighted arc
+  const r = 34;
+  const circ = 2 * Math.PI * r;
+  const share = total ? Math.min(c.totalCommitContributions / total, 1) : 0;
+
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" font-family="Segoe UI, Ubuntu, sans-serif">
+  <rect width="420" height="170" rx="6" fill="#0D1117"/>
   <path transform="translate(20,14) scale(1.5)" fill="#ffffff" d="${GITHUB_LOGO}"/>
   <text x="54" y="32" fill="#ffffff" font-size="18" font-weight="600">${login}</text>
+  <circle cx="64" cy="116" r="${r}" fill="none" stroke="#2a2f38" stroke-width="5"/>
+  <circle cx="64" cy="116" r="${r}" fill="none" stroke="#54dfc4" stroke-width="5" stroke-linecap="round"
+    stroke-dasharray="${(circ * share).toFixed(1)} ${circ.toFixed(1)}" transform="rotate(-90 64 116)"/>
+  <text x="64" y="118" fill="#ffffff" font-size="${String(total).length > 3 ? 20 : 24}" font-weight="600" text-anchor="middle">${total}</text>
+  <text x="64" y="132" fill="#8b949e" font-size="9" text-anchor="middle">contributions</text>
   ${lines}
 </svg>`;
 
