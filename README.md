@@ -22,6 +22,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ---
 ### Activity & Stats
-| GitHub Stats | LeetCode Stats |
+| GitHub Activity | LeetCode Stats |
 | :---: | :---: |
-| <img src="https://github-readme-stats-fast.vercel.app/api?username=Soumyajitttt&show_icons=true&bg_color=0D1117&title_color=54dfc4&text_color=54dfc4&icon_color=f6d34e&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" />  |  <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" /> |
+| <img src="./activity.svg" height="170" alt="GitHub Activity" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" alt="LeetCode Stats" /> |
