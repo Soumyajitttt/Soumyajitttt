@@ -4,7 +4,7 @@ const token = process.env.GH_TOKEN;
 const user = process.env.GH_USER;
 
 const ACCENT = "#3ecf8e";
-
+ 
 const query = `query($login: String!) {
   user(login: $login) {
     contributionsCollection {
