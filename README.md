@@ -23,6 +23,17 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ---
+### Open Source & Community
+
+**Open Source Contributions**
+- [**MediFlow**](https://github.com/Nebulyn-Labs/MediFlow) (Nebulyn-Labs): AI-powered medical logistics platform for smart resource allocation. Contributed through pull requests and commits.
+- [**PrepPilot**](https://github.com/Canopus-Labs/PrepPilot) (Canopus-Labs): all-in-one interview preparation platform. Contributed through pull requests and commits.
+
+**Programs & Communities**
+- **GirlScript Summer of Code (GSSoC) 2026**: selected as a contributor and made contributions to open source projects through the program.
+- **GDG on Campus, Heritage Institute of Technology**: member.
+
+---
 ### Activity & Stats
 | GitHub Activity | LeetCode Stats |
 | :---: | :---: |
