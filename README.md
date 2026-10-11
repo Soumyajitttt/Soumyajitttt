@@ -34,21 +34,24 @@ I'm Soumyajit, a third-year CSE (AI/ML) student at Heritage Institute of Technol
   <img src="https://img.shields.io/badge/GDG_on_Campus-HITK_Member-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=white" alt="GDG on Campus HITK" />
 </p>
 
-<p>
-  <a href="https://github.com/Nebulyn-Labs/MediFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nebulyn-Labs&repo=MediFlow&theme=dark" alt="MediFlow" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/Contributions_in_2026-4-2EA043?style=flat-square" alt="4 contributions in MediFlow" />
-</p>
-
-<p>
-  <a href="https://github.com/Canopus-Labs/PrepPilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canopus-Labs&repo=PrepPilot&theme=dark" alt="PrepPilot" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/Contributions_in_2026-6-2EA043?style=flat-square" alt="6 contributions in PrepPilot" />
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Nebulyn-Labs/MediFlow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nebulyn-Labs&repo=MediFlow&theme=dark" alt="MediFlow" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Contributions_in_2026-4-2EA043?style=flat-square" alt="4 contributions in MediFlow" />
+    </td>
+    <td>
+      <a href="https://github.com/Canopus-Labs/PrepPilot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canopus-Labs&repo=PrepPilot&theme=dark" alt="PrepPilot" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Contributions_in_2026-6-2EA043?style=flat-square" alt="6 contributions in PrepPilot" />
+    </td>
+  </tr>
+</table>
 
 ## Activity & Stats
 
