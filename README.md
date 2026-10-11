@@ -1,4 +1,8 @@
-### Tech I Use
+## About Me
+
+I'm Soumyajit, a third-year CSE (AI/ML) student at Heritage Institute of Technology. I build full-stack web apps, contribute to open source, and take part in hackathons alongside my coursework. I was selected for GSSoC 2026 and was a member of GDG on Campus HITK. I share my projects here on GitHub and on LinkedIn.
+
+## Tech I Use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,19 +26,38 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
----
-### Open Source & Community
 
-**Open Source Contributions**
-- [**MediFlow**](https://github.com/Nebulyn-Labs/MediFlow) (Nebulyn-Labs): AI-powered medical logistics platform for smart resource allocation. Contributed through pull requests and commits.
-- [**PrepPilot**](https://github.com/Canopus-Labs/PrepPilot) (Canopus-Labs): all-in-one interview preparation platform. Contributed through pull requests and commits.
+## Open Source & Community
 
-**Programs & Communities**
-- **GirlScript Summer of Code (GSSoC) 2026**: selected as a contributor and made contributions to open source projects through the program.
-- **GDG on Campus, Heritage Institute of Technology**: member.
+<p>
+  <img src="https://img.shields.io/badge/GSSoC-2026_Contributor-F97316?style=for-the-badge" alt="GSSoC 2026 Contributor" />
+  <img src="https://img.shields.io/badge/GDG_on_Campus-HITK_Member-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=white" alt="GDG on Campus HITK" />
+</p>
 
----
-### Activity & Stats
+<p>
+  <a href="https://github.com/Nebulyn-Labs/MediFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nebulyn-Labs&repo=MediFlow&theme=dark" alt="MediFlow" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Contributions_in_2026-4-2EA043?style=flat-square" alt="4 contributions in MediFlow" />
+</p>
+
+<p>
+  <a href="https://github.com/Canopus-Labs/PrepPilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canopus-Labs&repo=PrepPilot&theme=dark" alt="PrepPilot" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Contributions_in_2026-6-2EA043?style=flat-square" alt="6 contributions in PrepPilot" />
+</p>
+
+## Activity & Stats
+
 | GitHub Activity | LeetCode Stats |
 | :---: | :---: |
 | <img src="./activity.svg" height="170" alt="GitHub Activity" /> | <img src="https://leetcard.jacoblin.cool/soumyaj1t?theme=dark&font=Recursive" height="170" alt="LeetCode Stats" /> |
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumyajittttt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
