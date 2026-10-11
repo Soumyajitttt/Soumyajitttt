@@ -30,7 +30,10 @@ I'm Soumyajit, a third-year CSE (AI/ML) student at Heritage Institute of Technol
 ## Open Source & Community
 
 <p>
-  <img src="https://img.shields.io/badge/GSSoC-2026_Contributor-F97316?style=for-the-badge" alt="GSSoC 2026 Contributor" />
+  <a href="https://drive.google.com/file/d/1ArmdvG4UbMF3uHXgofk7l7VNZARPAFuG/view?usp=sharing" target="_blank" title="View GSSoC 2026 contributor proof">
+    <img src="https://img.shields.io/badge/GSSoC-2026_Contributor-F97316?style=for-the-badge" alt="GSSoC 2026 Contributor" />
+  </a> 🔗
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GDG_on_Campus-HITK_Member-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=white" alt="GDG on Campus HITK" />
 </p>
 
